@@ -1,4 +1,4 @@
-# 👋 Hello, I’m riii siii
+# 👋 Hello, I’m Rim Ben Moussa
 
 ### 🎓 Software Engineering Student | Full-Stack & AI Enthusiast  
 
