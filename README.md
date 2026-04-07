@@ -1,43 +1,57 @@
-# 👋 Hello, I’m Rim Ben Moussa
+# 👋 Hi, I’m Rim Ben Moussa
 
-### 🎓 Software Engineering Student | Full-Stack & AI Enthusiast  
+### 🎓 Software Engineering Student | Full-Stack Developer | AI & Game Dev Enthusiast
 
-I’m passionate about building **innovative web apps, AI solutions, and real-world projects** that make life easier.  
-Currently exploring the intersection of **Full-Stack Development** and **Artificial Intelligence**.
+I’m passionate about building **innovative web applications, AI solutions, and interactive games**.  
+I love solving complex problems and turning them into **elegant, real-world projects**.
 
 ---
 
 ## 🛠️ Skills & Tech Stack
 
-**Frontend:** React, HTML, CSS, JavaScript, Tailwind CSS  
-**Backend:** Node.js, Express, Laravel, FastAPI  
-**Databases:** MongoDB, MySQL, SQLite  
-**AI & Tools:** Google Gemini, LangChain, Streamlit, ElevenLabs  
-**Other:** Git, GitHub, Docker, REST APIs, Agile  
+**Programming Languages:** C, C++, C#, Java, Python, R, SQL  
+**Databases & Systems:** MySQL, PostgreSQL, SQLite, Oracle, MongoDB, Cassandra, Neo4j, Windows, Linux  
+
+**Web Development:**  
+- **Front-End:** HTML, CSS, JavaScript, React.js, Angular, Tailwind CSS  
+- **Back-End:** PHP, Laravel, Jakarta EE, Spring Boot, FastAPI, ASP.NET  
+
+**Modeling & Design:** UML, Merise  
+**3D / Game Development:** Blender, Unity  
 
 ---
 
-## 💻 Projects I'm Proud Of
+## 💻 Selected Projects
 
-### **1. Swappify – Skill Exchange Platform**
-> Connects learners to exchange skills and grow together.  
-- Full-stack app with React + Laravel + SQLite  
-- Dynamic dashboards & user matching algorithm  
-- [Repository Link](#)  
+### **SmartHire – AI Recruitment Platform** *(Hackathon, Capgemini Maroc)*  
+- Built a full-stack AI recruitment platform with React, FastAPI, SQLite, and Ollama  
+- Features secure authentication (JWT, bcrypt, reCAPTCHA) and CV analysis for recruiters  
+- Showcases integration of **AI + Web Development**
 
-### **2. AI Assistant – Moroccan Admin Helper**
-> Simplifies Moroccan administrative procedures with AI  
-- Multilingual voice/text interaction  
-- FastAPI + Streamlit + Google Gemini + LangChain  
-- [Repository Link](#)  
+### **Khadamat AI – Moroccan Admin Assistant**  
+- AI-powered assistant simplifying Moroccan administrative procedures  
+- Multilingual voice/text interaction, document validation with FastAPI, Streamlit, Google Gemini, LangChain, ElevenLabs  
 
-### **3. Books & Library Manager**
-> Online bookstore management system  
-- Manages sales, clients, and marketing  
-- Laravel + MySQL + Bootstrap  
-- [Repository Link](#)  
+### **Swappify – Skill Exchange Platform**  
+- Full-stack web app enabling users to exchange skills and learn from each other  
+- React + Laravel + SQLite, dynamic dashboards, and user matching algorithm  
 
-*…and more projects showcasing my skills in web & AI development!*  
+### **Virtual Assistant (Python Desktop App)**  
+- Built a bilingual Tkinter assistant with modern GUI and web automation  
+- Showcases audio processing, voice interaction, and automation skills  
+
+### **Predefined-Question Chatbot**  
+- Complete chatbot system with Java backend and HTML/CSS/JS frontend  
+- Supports interactive messaging and predefined Q&A logic  
+
+### **Wordle Clone (React)**  
+- Interactive Wordle-style game with dynamic state management  
+
+### **Weather App (React)**  
+- Real-time weather data from OpenWeatherMap API with clean responsive UI  
+
+### **2D Platformer Game (Unity, C#)**  
+- Smooth character controls, collision detection, progressive levels  
 
 ---
 
@@ -50,10 +64,9 @@ Currently exploring the intersection of **Full-Stack Development** and **Artific
 
 ## 📫 Let’s Connect
 
-- Email: your.email@example.com  
-- LinkedIn: [linkedin.com/in/yourprofile](#)  
-- Portfolio / Demo: [yourwebsite.com](#)  
+- Email: benmoussarim56@gmail.com 
+- LinkedIn: 
 
 ---
 
-✨ Fun Fact: I love turning complex problems into **simple, elegant solutions** using code.  
+✨ Fun Fact: I love **mixing AI, web apps, and games** to create practical and fun digital experiences!
