@@ -1,4 +1,4 @@
-# ✨ Step into my world — full-stack apps 💻, AI 🤖, and more ✨
+# ✨Step into my world : fullstack apps 💻, AI 🤖, and more✨
 
 ### 🎓 Software Engineering Student | Full-Stack Developer | AI & Game Dev Enthusiast
 
