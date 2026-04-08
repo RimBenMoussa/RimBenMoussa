@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Rim Ben Moussa
+# ✨ Step into my world — full-stack apps 💻, AI 🤖, and more ✨
 
 ### 🎓 Software Engineering Student | Full-Stack Developer | AI & Game Dev Enthusiast
 
