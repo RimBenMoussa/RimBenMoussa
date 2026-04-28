@@ -4,6 +4,7 @@
 Software Engineering student passionate about creating full-stack applications and practical software solutions.
 
 I enjoy building projects that combine clean design, strong functionality, and real-world impact.
+
 ---
 ### 🎯 Current Focus
 - Full-stack web development
