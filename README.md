@@ -65,7 +65,7 @@ I love solving complex problems and turning them into **elegant, real-world proj
 ## 📫 Let’s Connect
 
 - Email: benmoussarim56@gmail.com 
-- LinkedIn: 
+- LinkedIn: https://www.linkedin.com/in/rim-ben-moussa-2687a4251/
 
 ---
 
