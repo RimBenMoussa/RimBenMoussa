@@ -1,31 +1,45 @@
-# ✨Step into my world : fullstack apps 💻, AI 🤖, and more✨
+# ⚙️ Software Engineer Turning Ideas into Real-World Applications
 
-### 🎓 Software Engineering Student | Full-Stack Developer | AI & Game Dev Enthusiast
+## 🧠 About Me
 
-I’m passionate about building **innovative web applications, AI solutions, and interactive games**.  
-I love solving complex problems and turning them into **elegant, real-world projects**.
+Software Engineering student passionate about creating full-stack applications and practical software solutions.
 
----
+I enjoy building projects that combine clean design, strong functionality, and real-world impact.
 
-## 🛠️ Skills & Tech Stack
+### 🎯 Current Focus
+- Full-stack web development
+- Backend architecture & scalable systems
+- Building impactful portfolio projects
 
-**Programming Languages:** C, C++, C#, Java, Python, R, SQL  
-**Databases & Systems:** MySQL, PostgreSQL, SQLite, Oracle, MongoDB, Cassandra, Neo4j, Windows, Linux  
+  
+## 🛠️ Tech Stack
 
-**Web Development:**  
-- **Front-End:** HTML, CSS, JavaScript, React.js, Angular, Tailwind CSS  
-- **Back-End:** PHP, Laravel, Jakarta EE, Spring Boot, FastAPI, ASP.NET  
+### 🌐 Front-End
+HTML, CSS, JavaScript, React, Angular, Tailwind CSS
 
-**Modeling & Design:** UML, Merise  
-**3D / Game Development:** Blender, Unity  
+### ⚙️ Back-End
+Spring Boot, FastAPI, Laravel, ASP.NET
 
+### 🗄️ Databases
+MySQL, PostgreSQL, MongoDB
+
+### 💻 Programming Languages
+Java, Python, JavaScript, C, C++, C#
+
+### 🎮 Additional Tools
+Unity, Blender, Linux, Git
 ---
 
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RimBenMoussa&show_icons=true&theme=radical)  
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RimBenMoussa&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RimBenMoussa&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RimBenMoussa&theme=radical)
 
 ---
 
@@ -36,4 +50,3 @@ I love solving complex problems and turning them into **elegant, real-world proj
 
 ---
 
-✨ Fun Fact: I love **mixing AI, web apps, and games** to create practical and fun digital experiences!
