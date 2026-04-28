@@ -1,17 +1,16 @@
-# ⚙️ Software Engineer Turning Ideas into Real-World Applications
-
+### Software Engineering Student | Full-Stack Developer | Data Engineering Enthusiast
 ## 🧠 About Me
 
 Software Engineering student passionate about creating full-stack applications and practical software solutions.
 
 I enjoy building projects that combine clean design, strong functionality, and real-world impact.
-
+---
 ### 🎯 Current Focus
 - Full-stack web development
 - Backend architecture & scalable systems
 - Building impactful portfolio projects
 
-  
+---
 ## 🛠️ Tech Stack
 
 ### 🌐 Front-End
