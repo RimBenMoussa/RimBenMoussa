@@ -21,39 +21,6 @@ I love solving complex problems and turning them into **elegant, real-world proj
 
 ---
 
-## 💻 Selected Projects
-
-### **SmartHire – AI Recruitment Platform** *(Hackathon, Capgemini Maroc)*  
-- Built a full-stack AI recruitment platform with React, FastAPI, SQLite, and Ollama  
-- Features secure authentication (JWT, bcrypt, reCAPTCHA) and CV analysis for recruiters  
-- Showcases integration of **AI + Web Development**
-
-### **Khadamat AI – Moroccan Admin Assistant**  
-- AI-powered assistant simplifying Moroccan administrative procedures  
-- Multilingual voice/text interaction, document validation with FastAPI, Streamlit, Google Gemini, LangChain, ElevenLabs  
-
-### **Swappify – Skill Exchange Platform**  
-- Full-stack web app enabling users to exchange skills and learn from each other  
-- React + Laravel + SQLite, dynamic dashboards, and user matching algorithm  
-
-### **Virtual Assistant (Python Desktop App)**  
-- Built a bilingual Tkinter assistant with modern GUI and web automation  
-- Showcases audio processing, voice interaction, and automation skills  
-
-### **Predefined-Question Chatbot**  
-- Complete chatbot system with Java backend and HTML/CSS/JS frontend  
-- Supports interactive messaging and predefined Q&A logic  
-
-### **Wordle Clone (React)**  
-- Interactive Wordle-style game with dynamic state management  
-
-### **Weather App (React)**  
-- Real-time weather data from OpenWeatherMap API with clean responsive UI  
-
-### **2D Platformer Game (Unity, C#)**  
-- Smooth character controls, collision detection, progressive levels  
-
----
 
 ## 📈 GitHub Stats
 
