@@ -25,7 +25,7 @@ HTML, CSS, JavaScript, React, Angular, Tailwind CSS
 Spring Boot, FastAPI, Laravel, ASP.NET
 
 ### 🗄️ Databases
-MySQL, PostgreSQL, MongoDB
+MySQL, PostgreSQL, SQLite, Oracle, MongoDB, Cassandra, Neo4j.
 
 ### 💻 Programming Languages
 Java, Python, JavaScript, C, C++, C#
